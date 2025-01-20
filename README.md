@@ -12,7 +12,7 @@ y=0.5, where probabilities transition between 0 and 1.
 * Optimized Linear, Lasso, and Logistic Regression Model
 
 
-![](/images/positions_by_state.png)
+![](/images/output (2).png)
 
 
 # [Project 2: Market reviewr v.s rating] 
