@@ -11,6 +11,7 @@ Dashed gray line: Indicates the decision threshold at
 y=0.5, where probabilities transition between 0 and 1.
 * Optimized Linear, Lasso, and Logistic Regression Model
 
+![alt text](https://github.com/tacel/Jong_Portfolio/blob/master/images/output%20(4).png)
 
 ![alt text](
 https://github.com/tacel/Jong_Portfolio/blob/master/images/output%20(2).png)
